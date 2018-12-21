@@ -1,0 +1,10 @@
+/*
+Analisis detallado linea por linea
+de un programa sencillo
+*/
+class ProgramaSencillo {
+	// El programa comienza con una llamada a main ().
+	public static void main(String args []) {
+		System.out.println("Este es un programa sencillo en Java.");
+	}
+}
