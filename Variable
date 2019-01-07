@@ -1,0 +1,12 @@
+public class Variable {
+	public static void main(String  args []) {
+		int numero;//declara una variable de tipo entero llamada numero
+		numero = 100;//asigna a numero el valor de 100
+		
+		System.out.println("El valor de numero es " + numero);
+		
+		numero = numero * 2; //asigna a numero el valor de numero por dos
+		System.out.println("El valor de numero es " + numero);
+	}
+
+}
