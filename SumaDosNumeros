@@ -1,0 +1,19 @@
+public class SumaDosNumeros {
+	public static void main(String[] args) {
+		/*Declaración de variable*/
+		int numero1; //Declara una variable llamada numero1
+		int numero2; //Declara una variable llamada numero2
+		int resultado_suma; //Declara una variable llamada resultado_suma
+		
+		/*Asignación de variables*/
+		numero1 = 5; //Asigna a numero1 el valor de 5
+		numero2 = 10; //Asigna a numero2 el valor de 10
+		
+		//Asigna a resultado_suma la suma de numero1 + numero2
+		resultado_suma = numero1 + numero2;
+		
+		//Desplegar en pantalla
+		System.out.println("El resultado de sumar numero1 + numero2 es = "
+								+ resultado_suma);
+	}
+}
